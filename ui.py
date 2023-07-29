@@ -1,4 +1,5 @@
 # Import necessary libraries
+import download
 import streamlit as st
 import sys
 sys.path.insert(0, '/path_to_your_script/')  # replace with the path to your maths.py script
